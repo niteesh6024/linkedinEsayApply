@@ -16,15 +16,20 @@ def message(t):
     print("MSG: "+t)
 
 def read_tries():
-    with open(f'./data/tries.txt', 'r') as file:
-        t = file.read().strip()
-        current_date = datetime.now().strftime("%Y-%m-%d")
-        file_date, tries_str = t.split(" tries=")
-        tries = int(tries_str)
-        if file_date != current_date:
-            tries = 0
-            write_tries(tries)
-    return tries
+    try:
+        with open(f'./data/tries.txt', 'r') as file:
+            t = file.read().strip()
+            current_date = datetime.now().strftime("%Y-%m-%d")
+            file_date, tries_str = t.split(" tries=")
+            tries = int(tries_str)
+            if file_date != current_date:
+                tries = 0
+                write_tries(tries)
+        return tries
+    except:
+        with open(f'./data/tries.txt', 'w') as file:
+            current_date = datetime.now().strftime("%Y-%m-%d")
+            file.write(f'{current_date} tries=0')
 
 def write_tries(tries):
     with open(f'./data/tries.txt', 'w') as file:
