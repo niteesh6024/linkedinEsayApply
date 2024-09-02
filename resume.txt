@@ -1,0 +1,72 @@
+# Niteesh Satya Sai Boddapu
+**Gender:** Male
+**Race/Ethnicity:** Asian
+**Veteran:** I am not a protected Veteran
+**Disability:** I Don't Have A Disability, Or A History/Record Of Having A Disability
+**City: ** Visakhapatanam, Andhra Pradesh, India
+**Street address: ** ompollu, Anakapalli
+**District:** Visakhapatanam
+**Pincode:** 531001
+**State:** Andhra Pradesh
+**Country:** India
+**Email:** boddapuniteesh541@gmail.com  
+**Phone:** +91 9515025579  
+**LinkedIn:** https://www.linkedin.com/in/niteesh6024/
+**GitHub:** https://github.com/niteesh6024
+## ABOUT ME
+- Experienced with strong capabilities in Java Spring development and backend services
+- Proficient in DevOps practices, including automating deployment pipelines and managing cloud infrastructure with Docker, Kubernetes, and Concourse CI/CD.
+- Developed intelligent systems, such as AI-powered chatbots, showcasing a deep understanding of AI frameworks and operational integration.
+## WORK EXPERIENCE
+### DevOps Engineer 
+**Comcast | Chennai, India**  
+*Jan 2023 - Present
+- **SideWing:**
+  - Developed an intelligent chatbot using LLaMA3 with a Retrieval-Augmented Generation (RAG) approach, utilizing the LangChain framework in Python to provide precise and contextually relevant responses to organizational queries.
+  - Converted organizational data into vector embeddings using Hugging Face Transformers, stored in ChromaDB, and implemented a reranking mechanism for optimized retrieval.
+  - Automated data synchronization from Jira, Confluence, and Git repositories into ChromaDB using cron jobs, ensuring up-to-date information.
+  - Orchestrated the deployment of the user interface and database on Kubernetes for high availability and scalability.
+  - Streamlined development and deployment workflows through Concourse CI/CD pipeline automation.
+  - Implemented the DeepEval framework to test chatbot responses for accuracy and implemented a CD strategy based on defined metrics and thresholds.
+- **SideWing:**
+  - Implemented Vector Datadog as both an agent and aggregator, transporting logs and metrics from various endpoints to Grafana and OTEL collector.
+  - Orchestrated the setup using Helm charts, ensuring smooth data integration and enhancing system observability.
+  - Developed a configuration-based approach that automated the entire deployment procedure using YAML configuration, including establishing aggregators in Kubernetes clusters, configuring data sources, and setting alerts in Grafana.
+  - Created comprehensive unit tests and integration tests for aggregators using GO Lang.
+
+## PERSONAL PROJECTS
+- **BookMyGame:**
+  - Developed a web application for booking games within the company, allowing teams to reserve game room time slots with restrictions on frequency and duration.
+  - Built RESTful APIs using Spring Boot, ensuring scalability, maintainability, and performance.
+  - Designed the front end with ReactJS and deployed the application on AWS.
+- **Linkedin Job Apply using AI:**
+  - Developed a system using Mistral Mixture of Experts GPT LLM to automatically apply for jobs based on job details and personal needs.
+  - The system can answer questions during the job application process on behalf of the user.
+## CERTIFICATIONS
+- Spring Framework – in28min.
+- Mastering Data Structures & Algorithms – Abdul barri.
+-	Introduction to Kubernetes - Edx
+## EDUCATION
+**Bachelor of Engineering (B.E) - Computer Science Engineering**  
+*Kalasalingam Academy of Research and Education, Virudhu Nagar, India  
+*July 2019 - July 2023*  
+*CGPA: 9.2*
+## SKILLS
+- **Programming & Databases:** JAVA, Python, C, JavaScript, GO Lang, shell script, MySQL.
+- **Cloud Platforms:** GCP, AWS
+- **Key Libraries & Frameworks:** Spring, ReactJS, huggingface, Langchain.
+- **Tools:** Git, Docker, Kubernetes, Concourse, Terraform, Grafana, k6, Vector.
+- **Computer Science Fundamentals:** Data Structures, Algorithms
+## Additional Details
+- I have end-to-end skills like application development and application deployment.
+- I have work experience of around 2 years in Devops and GenAI related things like docker, k8s, Terraform, LLM (Large Language Models),RAG (retrieval augmented generation), Transformers, Huggingface, GPT,Vertex AI, GCP, AWS, sql and more. 
+- i have good knowledge of DevOps/AiOPS best Practices. 
+- I can develop API using spring.
+- I have real-world experience of deploying models into GCP and several other cloud platforms.
+- I am currently earning 7 Lakhs per annum.
+- I have around 2 years of experience in AiOPS related roles.
+- I am open to relocation and expect around 14 Lakhs (14,00,000 INR) per annum.
+- I am open to both remote work and relocation.
+- I have a notice period of less than 56 days (2 month).
+- I am proficient in English and my native language is Telugu.
+- I graduated with a B.E in Computer Science in 2022 with CGPA of 9.2.
